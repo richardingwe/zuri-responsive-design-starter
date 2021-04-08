@@ -411,6 +411,9 @@ div.footer h6 {
 		background-color: #304353;
 		z-index: 10;
 	}
+	ul li {
+		font-size: 20px;
+	}
 	div.menu {
 		display: flex;
 	}
@@ -434,9 +437,7 @@ div.footer h6 {
 	}
 
 	ul li {
-		margin: 0 2vw;
-		list-style: none;
-		font-size: 14px;
+		font-size: 20px;
 	}
 
 	div.hero-section {
